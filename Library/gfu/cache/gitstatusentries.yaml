@@ -13,21 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-17T09:54:13.356+02:00
+  lastUpdatedAtString: 2020-07-17T09:54:36.385+02:00
   initializedAtString: 2020-07-17T08:08:49.566+02:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\chiba\MyFirstGame\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\chiba\MyFirstGame\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -64,21 +52,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: MyFirstGame.sln
-    fullPath: C:\Users\chiba\MyFirstGame\MyFirstGame.sln
-    projectPath: MyFirstGame.sln
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Users\chiba\MyFirstGame\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-63cf8f55486cf6a4ebbedda7639bea67
-    fullPath: C:\Users\chiba\MyFirstGame\Temp\UnityTempFile-63cf8f55486cf6a4ebbedda7639bea67
-    projectPath: Temp\UnityTempFile-63cf8f55486cf6a4ebbedda7639bea67
+  - path: Temp\UnityTempFile-c3e88b407dde61643b734593814d6598
+    fullPath: C:\Users\chiba\MyFirstGame\Temp\UnityTempFile-c3e88b407dde61643b734593814d6598
+    projectPath: Temp\UnityTempFile-c3e88b407dde61643b734593814d6598
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
