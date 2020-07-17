@@ -1,0 +1,900 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-07-17T09:52:38.885+02:00
+  initializedAtString: 2020-07-17T08:08:48.190+02:00
+  log:
+  - commitID: 1e9fa2af40ceaf996de5c8d3f48fa407b0af814a
+    mergeA: 
+    mergeB: 
+    authorName: Remco-Muller
+    authorEmail: chiba.selling@gmail.com
+    commitEmail: chiba.selling@gmail.com
+    commitName: Remco-Muller
+    summary: addedd
+    description: added
+    timeString: 2020-07-17T09:52:37.000+02:00
+    commitTimeString: 2020-07-17T09:52:37.000+02:00
+    changes:
+    - path: Assets\Assests\Background.jpg
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\Background.jpg
+      projectPath: Assets\Assests\Background.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\Backjack.jpg
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\Backjack.jpg
+      projectPath: Assets\Assests\Backjack.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\background2.jpg
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\background2.jpg
+      projectPath: Assets\Assests\background2.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\10C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\10C.png
+      projectPath: Assets\Assests\cards\Clubs\10C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\2C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\2C.png
+      projectPath: Assets\Assests\cards\Clubs\2C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\3C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\3C.png
+      projectPath: Assets\Assests\cards\Clubs\3C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\4C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\4C.png
+      projectPath: Assets\Assests\cards\Clubs\4C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\5C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\5C.png
+      projectPath: Assets\Assests\cards\Clubs\5C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\6C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\6C.png
+      projectPath: Assets\Assests\cards\Clubs\6C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\7C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\7C.png
+      projectPath: Assets\Assests\cards\Clubs\7C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\8C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\8C.png
+      projectPath: Assets\Assests\cards\Clubs\8C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\9C.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\9C.png
+      projectPath: Assets\Assests\cards\Clubs\9C.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\AC.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\AC.png
+      projectPath: Assets\Assests\cards\Clubs\AC.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\JC.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\JC.png
+      projectPath: Assets\Assests\cards\Clubs\JC.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\KC.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\KC.png
+      projectPath: Assets\Assests\cards\Clubs\KC.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Clubs\QC.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Clubs\QC.png
+      projectPath: Assets\Assests\cards\Clubs\QC.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\10D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\10D.png
+      projectPath: Assets\Assests\cards\Diamonds\10D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\2D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\2D.png
+      projectPath: Assets\Assests\cards\Diamonds\2D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\3D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\3D.png
+      projectPath: Assets\Assests\cards\Diamonds\3D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\4D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\4D.png
+      projectPath: Assets\Assests\cards\Diamonds\4D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\5D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\5D.png
+      projectPath: Assets\Assests\cards\Diamonds\5D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\6D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\6D.png
+      projectPath: Assets\Assests\cards\Diamonds\6D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\7D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\7D.png
+      projectPath: Assets\Assests\cards\Diamonds\7D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\8D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\8D.png
+      projectPath: Assets\Assests\cards\Diamonds\8D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\9D.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\9D.png
+      projectPath: Assets\Assests\cards\Diamonds\9D.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\AD.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\AD.png
+      projectPath: Assets\Assests\cards\Diamonds\AD.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\JD.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\JD.png
+      projectPath: Assets\Assests\cards\Diamonds\JD.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\KD.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\KD.png
+      projectPath: Assets\Assests\cards\Diamonds\KD.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Diamonds\QD.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Diamonds\QD.png
+      projectPath: Assets\Assests\cards\Diamonds\QD.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\10H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\10H.png
+      projectPath: Assets\Assests\cards\Hearts\10H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\2H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\2H.png
+      projectPath: Assets\Assests\cards\Hearts\2H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\3H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\3H.png
+      projectPath: Assets\Assests\cards\Hearts\3H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\4H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\4H.png
+      projectPath: Assets\Assests\cards\Hearts\4H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\5H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\5H.png
+      projectPath: Assets\Assests\cards\Hearts\5H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\6H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\6H.png
+      projectPath: Assets\Assests\cards\Hearts\6H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\7H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\7H.png
+      projectPath: Assets\Assests\cards\Hearts\7H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\8H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\8H.png
+      projectPath: Assets\Assests\cards\Hearts\8H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\9H.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\9H.png
+      projectPath: Assets\Assests\cards\Hearts\9H.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\AH.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\AH.png
+      projectPath: Assets\Assests\cards\Hearts\AH.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\JH.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\JH.png
+      projectPath: Assets\Assests\cards\Hearts\JH.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\KH.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\KH.png
+      projectPath: Assets\Assests\cards\Hearts\KH.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Hearts\QH.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Hearts\QH.png
+      projectPath: Assets\Assests\cards\Hearts\QH.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\10S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\10S.png
+      projectPath: Assets\Assests\cards\Spades\10S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\2S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\2S.png
+      projectPath: Assets\Assests\cards\Spades\2S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\3S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\3S.png
+      projectPath: Assets\Assests\cards\Spades\3S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\4S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\4S.png
+      projectPath: Assets\Assests\cards\Spades\4S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\5S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\5S.png
+      projectPath: Assets\Assests\cards\Spades\5S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\6S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\6S.png
+      projectPath: Assets\Assests\cards\Spades\6S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\7S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\7S.png
+      projectPath: Assets\Assests\cards\Spades\7S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\8S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\8S.png
+      projectPath: Assets\Assests\cards\Spades\8S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\9S.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\9S.png
+      projectPath: Assets\Assests\cards\Spades\9S.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\AS.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\AS.png
+      projectPath: Assets\Assests\cards\Spades\AS.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\JS.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\JS.png
+      projectPath: Assets\Assests\cards\Spades\JS.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\KS.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\KS.png
+      projectPath: Assets\Assests\cards\Spades\KS.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\Spades\QS.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Spades\QS.png
+      projectPath: Assets\Assests\cards\Spades\QS.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\aces.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\aces.png
+      projectPath: Assets\Assests\cards\aces.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\back_cards-07.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\back_cards-07.png
+      projectPath: Assets\Assests\cards\back_cards-07.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\background_Border.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\background_Border.png
+      projectPath: Assets\Assests\cards\background_Border.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\blue_back.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\blue_back.png
+      projectPath: Assets\Assests\cards\blue_back.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\gray_back.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\gray_back.png
+      projectPath: Assets\Assests\cards\gray_back.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\green_back.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\green_back.png
+      projectPath: Assets\Assests\cards\green_back.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\honor_clubs.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\honor_clubs.png
+      projectPath: Assets\Assests\cards\honor_clubs.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\honor_diamond.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\honor_diamond.png
+      projectPath: Assets\Assests\cards\honor_diamond.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\honor_heart-14.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\honor_heart-14.png
+      projectPath: Assets\Assests\cards\honor_heart-14.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\honors_spade-14.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\honors_spade-14.png
+      projectPath: Assets\Assests\cards\honors_spade-14.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\purple_back.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\purple_back.png
+      projectPath: Assets\Assests\cards\purple_back.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\red_back.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\red_back.png
+      projectPath: Assets\Assests\cards\red_back.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\cards\yellow_back.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\yellow_back.png
+      projectPath: Assets\Assests\cards\yellow_back.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\test.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\test.png
+      projectPath: Assets\Assests\test.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86849__milton__bjp.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86849__milton__bjp.wav
+      projectPath: Assets\Resources\86849__milton__bjp.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86850__milton__blackjack-dealer.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86850__milton__blackjack-dealer.wav
+      projectPath: Assets\Resources\86850__milton__blackjack-dealer.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86851__milton__blackjack-player.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86851__milton__blackjack-player.wav
+      projectPath: Assets\Resources\86851__milton__blackjack-player.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86852__milton__blackjack-sound-demonstration.mp3
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86852__milton__blackjack-sound-demonstration.mp3
+      projectPath: Assets\Resources\86852__milton__blackjack-sound-demonstration.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86854__milton__cardfall.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86854__milton__cardfall.wav
+      projectPath: Assets\Resources\86854__milton__cardfall.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86855__milton__cash.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86855__milton__cash.wav
+      projectPath: Assets\Resources\86855__milton__cash.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86860__milton__exit-game.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86860__milton__exit-game.wav
+      projectPath: Assets\Resources\86860__milton__exit-game.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86863__milton__knok.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86863__milton__knok.wav
+      projectPath: Assets\Resources\86863__milton__knok.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86864__milton__logo.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86864__milton__logo.wav
+      projectPath: Assets\Resources\86864__milton__logo.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86865__milton__lose.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86865__milton__lose.wav
+      projectPath: Assets\Resources\86865__milton__lose.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86870__milton__push.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86870__milton__push.wav
+      projectPath: Assets\Resources\86870__milton__push.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86872__milton__quit.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86872__milton__quit.wav
+      projectPath: Assets\Resources\86872__milton__quit.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86873__milton__shuffle.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86873__milton__shuffle.wav
+      projectPath: Assets\Resources\86873__milton__shuffle.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86874__milton__split.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86874__milton__split.wav
+      projectPath: Assets\Resources\86874__milton__split.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86875__milton__thank-you.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86875__milton__thank-you.wav
+      projectPath: Assets\Resources\86875__milton__thank-you.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86876__milton__title-screen.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86876__milton__title-screen.wav
+      projectPath: Assets\Resources\86876__milton__title-screen.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86877__milton__walk-away.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86877__milton__walk-away.wav
+      projectPath: Assets\Resources\86877__milton__walk-away.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86879__milton__winn.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86879__milton__winn.wav
+      projectPath: Assets\Resources\86879__milton__winn.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\86881__milton__yes.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\86881__milton__yes.wav
+      projectPath: Assets\Resources\86881__milton__yes.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\backgroundsound.mp3
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\backgroundsound.mp3
+      projectPath: Assets\Resources\backgroundsound.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\blackjack.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\blackjack.wav
+      projectPath: Assets\Resources\blackjack.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\cardsound1.mp3
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\cardsound1.mp3
+      projectPath: Assets\Resources\cardsound1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\cardsound2.mp3
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\cardsound2.mp3
+      projectPath: Assets\Resources\cardsound2.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\cardsound3.mp3
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\cardsound3.mp3
+      projectPath: Assets\Resources\cardsound3.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\dealerblackjack.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\dealerblackjack.wav
+      projectPath: Assets\Resources\dealerblackjack.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\dealerhas.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\dealerhas.wav
+      projectPath: Assets\Resources\dealerhas.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\double.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\double.wav
+      projectPath: Assets\Resources\double.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\doubledown.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\doubledown.wav
+      projectPath: Assets\Resources\doubledown.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\doubledownbtn.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\doubledownbtn.wav
+      projectPath: Assets\Resources\doubledownbtn.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\intro.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\intro.wav
+      projectPath: Assets\Resources\intro.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\playerblackjack.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\playerblackjack.wav
+      projectPath: Assets\Resources\playerblackjack.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\playerhas.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\playerhas.wav
+      projectPath: Assets\Resources\playerhas.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\push.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\push.wav
+      projectPath: Assets\Resources\push.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\resetSound.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\resetSound.wav
+      projectPath: Assets\Resources\resetSound.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\stand.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\stand.wav
+      projectPath: Assets\Resources\stand.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\tie.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\tie.wav
+      projectPath: Assets\Resources\tie.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\welcome.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\welcome.wav
+      projectPath: Assets\Resources\welcome.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\youlose.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\youlose.wav
+      projectPath: Assets\Resources\youlose.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\youwin.wav
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Resources\youwin.wav
+      projectPath: Assets\Resources\youwin.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardObject\CardObject.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\CardObject\CardObject.cs
+      projectPath: Assets\Scripts\CardObject\CardObject.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardObject\Manager.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\CardObject\Manager.cs
+      projectPath: Assets\Scripts\CardObject\Manager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Main.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\Main.cs
+      projectPath: Assets\Scripts\Main.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\OpeningsScene.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\OpeningsScene.cs
+      projectPath: Assets\Scripts\OpeningsScene.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Player.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\Player.cs
+      projectPath: Assets\Scripts\Player.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SoundManagerScript.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\SoundManagerScript.cs
+      projectPath: Assets\Scripts\SoundManagerScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: bf2afbbe10a03997c673cbcce2694da2c41e52f7
+    mergeA: 
+    mergeB: 
+    authorName: Remco-Muller
+    authorEmail: chiba.selling@gmail.com
+    commitEmail: chiba.selling@gmail.com
+    commitName: Remco-Muller
+    summary: Add .gitignore and .gitattributes.
+    description: 
+    timeString: 2020-07-17T08:07:06.000+02:00
+    commitTimeString: 2020-07-17T08:07:06.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\chiba\MyFirstGame\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\chiba\MyFirstGame\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
