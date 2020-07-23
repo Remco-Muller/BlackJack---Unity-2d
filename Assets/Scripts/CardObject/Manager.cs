@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Manager : MonoBehaviour
@@ -9,7 +10,7 @@ public class Manager : MonoBehaviour
     public Sprite[] Diamonds, Spades, Hearts, Clubs;
     public Sprite BackFacedCard;
 
-    public GameObject _PlayingField, _Player, _PlayerField, _Points, _DealerAI, _DealerField, _HtnBtn, _StayBtn, _ResetBtn, _DealerPoints, _WinText, _SoundManager, _DoubleDown;
+    public GameObject _PlayingField, _Player, _PlayerField, _Points, _DealerAI, _DealerField, _HtnBtn, _StayBtn, _ResetBtn, _DealerPoints, _WinText, _SoundManager, _DoubleDown, EscapeMenu;
     private Player User_Player, Dealer_AI;
 
     private bool DDown = false;
@@ -23,6 +24,13 @@ public class Manager : MonoBehaviour
         Dealer_AI.initialize();
         HideUIButtons(false);
         StartCoroutine(WaitingStart());
+    }
+    void Update()
+    {
+        if (Input.GetKeyUp("escape"))
+        {
+            EscapeMenu.SetActive(!EscapeMenu.activeSelf);
+        }
     }
     IEnumerator WaitingStart()
     {
@@ -257,6 +265,15 @@ public class Manager : MonoBehaviour
         yield return new WaitForSeconds(0.8f);
         NewCard(1);
         yield return null;
+    }
+    public void Exit()
+    {
+        SceneManager.LoadScene("Menu");
+    }
+
+    public void Restart()
+    {
+        SceneManager.LoadScene("Game");
     }
 
 }

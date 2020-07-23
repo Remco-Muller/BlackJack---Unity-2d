@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Main : MonoBehaviour
 {
-    public GameObject Background;
+    public GameObject Background, Maincanvas, Settingscanvas;
 
     private Vector3 startPos;
     private Vector3 endPos;
@@ -50,8 +50,19 @@ public class Main : MonoBehaviour
                 Application.Quit();
                 break;
             case (2):
-                
+                Maincanvas.SetActive(false);
+                Settingscanvas.SetActive(true);
                 break;
         }
+    }
+    public void cancelBtn()
+    {
+        Maincanvas.SetActive(true);
+        Settingscanvas.SetActive(false);
+    }
+    public void saveBtn()
+    {
+        
+
     }
 }
