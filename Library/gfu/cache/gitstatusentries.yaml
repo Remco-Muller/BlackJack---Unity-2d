@@ -13,9 +13,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-17T09:54:36.385+02:00
-  initializedAtString: 2020-07-17T08:08:49.566+02:00
+  lastUpdatedAtString: 2020-07-24T11:40:26.873+02:00
+  initializedAtString: 2020-07-24T11:40:26.873+02:00
   entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\chiba\MyFirstGame\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Game.unity
+    fullPath: C:\Users\chiba\MyFirstGame\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Menu.unity
+    fullPath: C:\Users\chiba\MyFirstGame\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\CardObject\Manager.cs
+    fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\CardObject\Manager.cs
+    projectPath: Assets\Scripts\CardObject\Manager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\JsonSerial.cs
+    fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\JsonSerial.cs
+    projectPath: Assets\Scripts\JsonSerial.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\JsonSerializable.cs
+    fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\JsonSerializable.cs
+    projectPath: Assets\Scripts\JsonSerializable.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Main.cs
+    fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\Main.cs
+    projectPath: Assets\Scripts\Main.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\SoundManagerScript.cs
+    fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\SoundManagerScript.cs
+    projectPath: Assets\Scripts\SoundManagerScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\chiba\MyFirstGame\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\chiba\MyFirstGame\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\chiba\MyFirstGame\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\chiba\MyFirstGame\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -46,21 +118,75 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\chiba\MyFirstGame\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\chiba\MyFirstGame\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\chiba\MyFirstGame\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\chiba\MyFirstGame\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\UnityLockfile
-    fullPath: C:\Users\chiba\MyFirstGame\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Library\StateCache\Hierarchy\77b382-mainStage.json
+    fullPath: C:\Users\chiba\MyFirstGame\Library\StateCache\Hierarchy\77b382-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\77b382-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\799c0f-mainStage.json
+    fullPath: C:\Users\chiba\MyFirstGame\Library\StateCache\Hierarchy\799c0f-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\799c0f-mainStage.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c3e88b407dde61643b734593814d6598
-    fullPath: C:\Users\chiba\MyFirstGame\Temp\UnityTempFile-c3e88b407dde61643b734593814d6598
-    projectPath: Temp\UnityTempFile-c3e88b407dde61643b734593814d6598
+  - path: Library\StateCache\SceneView\a1539b-mainStage.json
+    fullPath: C:\Users\chiba\MyFirstGame\Library\StateCache\SceneView\a1539b-mainStage.json
+    projectPath: Library\StateCache\SceneView\a1539b-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\a470a1-mainStage.json
+    fullPath: C:\Users\chiba\MyFirstGame\Library\StateCache\SceneView\a470a1-mainStage.json
+    projectPath: Library\StateCache\SceneView\a470a1-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\chiba\MyFirstGame\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\chiba\MyFirstGame\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

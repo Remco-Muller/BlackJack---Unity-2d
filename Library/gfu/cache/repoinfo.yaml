@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-07-17T09:52:04.922+02:00
-  initializedAtString: 2020-07-17T08:08:47.887+02:00
+  lastUpdatedAtString: 2020-07-24T11:40:26.186+02:00
+  initializedAtString: 2020-07-24T11:40:26.186+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Remco-Muller/MyFirstGame.git

@@ -18,6 +18,11 @@ public class Manager : MonoBehaviour
 
     void Start()
     {
+        VolumeData SettingsData = gameObject.GetComponent<JsonSerial>().getSettings();
+        OpeningsScene = SettingsData.OpeningsAnimation;
+        SoundManagerScript.FXVolume(SettingsData.volumeFx);
+        SoundManagerScript.MasterVolume(SettingsData.volumeBackground);
+
         User_Player = _Player.GetComponent<Player>();
         Dealer_AI = _DealerAI.GetComponent<Player>();
         User_Player.initialize();

@@ -74,4 +74,12 @@ public class SoundManagerScript : MonoBehaviour
                 break;
         }
     }
+    public static void MasterVolume(float vol)
+    {
+        BackGroundAudioSrc.volume = vol;
+    }
+    public static void FXVolume(float vol)
+    {
+        Audiosrc.volume = vol;
+    }
 }

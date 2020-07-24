@@ -13,9 +13,117 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-07-17T09:54:36.268+02:00
-  initializedAtString: 2020-07-17T08:08:48.190+02:00
+  lastUpdatedAtString: 2020-07-24T11:17:39.104+02:00
+  initializedAtString: 2020-07-24T09:17:12.521+02:00
   log:
+  - commitID: 8e179021328b4a5ddd4e37a4e95ba5bfe62af70d
+    mergeA: 
+    mergeB: 
+    authorName: Remco-Muller
+    authorEmail: chiba.selling@gmail.com
+    commitEmail: chiba.selling@gmail.com
+    commitName: Remco-Muller
+    summary: yoloo
+    description: 
+    timeString: 2020-07-23T22:01:25.000+02:00
+    commitTimeString: 2020-07-23T22:01:25.000+02:00
+    changes:
+    - path: Assets\Assests\cards\Outlay 1.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\cards\Outlay 1.png
+      projectPath: Assets\Assests\cards\Outlay 1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\kisspng-cafe-picture-frame-menu-classical-menu-5a82f1523f34a2.3239400515185308982589.jpg
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\kisspng-cafe-picture-frame-menu-classical-menu-5a82f1523f34a2.3239400515185308982589.jpg
+      projectPath: Assets\Assests\kisspng-cafe-picture-frame-menu-classical-menu-5a82f1523f34a2.3239400515185308982589.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Assests\menu_background_new_002.png
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Assests\menu_background_new_002.png
+      projectPath: Assets\Assests\menu_background_new_002.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\CardObject\Manager.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\CardObject\Manager.cs
+      projectPath: Assets\Scripts\CardObject\Manager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\JsonSerializable.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\JsonSerializable.cs
+      projectPath: Assets\Scripts\JsonSerializable.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Main.cs
+      fullPath: C:\Users\chiba\MyFirstGame\Assets\Scripts\Main.cs
+      projectPath: Assets\Scripts\Main.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8d1e1ed4decbb6cb95e0ccd1689756cd7748bfa2
+    mergeA: 
+    mergeB: 
+    authorName: Remco-Muller
+    authorEmail: chiba.selling@gmail.com
+    commitEmail: chiba.selling@gmail.com
+    commitName: Remco-Muller
+    summary: ff
+    description: 
+    timeString: 2020-07-17T09:54:52.000+02:00
+    commitTimeString: 2020-07-17T09:54:52.000+02:00
+    changes:
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\chiba\MyFirstGame\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\chiba\MyFirstGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a99d65284fd506866c45c8564b1c0bdda7f7940e
     mergeA: 
     mergeB: 

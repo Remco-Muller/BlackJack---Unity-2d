@@ -1,11 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using UnityEngine.UIElements;
 
 public class Main : MonoBehaviour
 {
-    public GameObject Background, Maincanvas, Settingscanvas;
+    public GameObject Background, Maincanvas, Settingscanvas, ToggleBtn, MasterSlider, FXSlider;
 
     private Vector3 startPos;
     private Vector3 endPos;
@@ -16,6 +19,18 @@ public class Main : MonoBehaviour
 
     void Start()
     {
+        if (File.Exists(Application.persistentDataPath + "/Settings.json"))
+        {
+            VolumeData SettingsData = gameObject.GetComponent<JsonSerial>().getSettings();
+            ToggleBtn.GetComponent<UnityEngine.UI.Toggle>().isOn = SettingsData.OpeningsAnimation;
+            MasterSlider.GetComponent<UnityEngine.UI.Slider>().value = SettingsData.volumeBackground;
+            FXSlider.GetComponent<UnityEngine.UI.Slider>().value = SettingsData.volumeFx;
+        }
+        else
+        {
+            FirstSettingsJson();
+        }
+
         startPos = Background.transform.localScale;
         endPos.x = 1.03f;
         endPos.y = 1.03f;
@@ -62,7 +77,14 @@ public class Main : MonoBehaviour
     }
     public void saveBtn()
     {
-        
-
+        FirstSettingsJson();
+        cancelBtn();
+    }
+    public void FirstSettingsJson()
+    {
+        gameObject.GetComponent<JsonSerial>()._VolumeData.OpeningsAnimation = ToggleBtn.GetComponent<UnityEngine.UI.Toggle>().isOn;
+        gameObject.GetComponent<JsonSerial>()._VolumeData.volumeBackground = MasterSlider.GetComponent<UnityEngine.UI.Slider>().value;
+        gameObject.GetComponent<JsonSerial>()._VolumeData.volumeFx = FXSlider.GetComponent<UnityEngine.UI.Slider>().value;
+        gameObject.GetComponent<JsonSerial>().saveSettings();
     }
 }
